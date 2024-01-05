@@ -1,7 +1,5 @@
-### Hi I'm Mia!
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Diving+In+The+World+Of+Code...;Computer+Science+Student,;iOS+Development+Newbie,;Game+Development+Enthusiast;New+Projects+Every+Month!+<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Mia!+Welcome..&hearts;++;Diving+In+The+World+Of+Code...;Computer+Science+Student,;iOS+Development+Newbie,;Game+Development+Enthusiast;New+Projects+Every+Month!+<3"></a>
 </p>
 
 <br>
