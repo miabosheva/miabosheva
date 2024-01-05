@@ -28,8 +28,12 @@
 <div style="display: flex;
             flex-wrap: wrap;
             justify-content: space-between;">
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=miabosheva&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miabosheva&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300">
+<p style="width: calc(50% - 10px);
+            margin: 5px; 
+            box-sizing: border-box;"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=miabosheva&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+<p style="width: calc(50% - 10px);
+            margin: 5px; 
+            box-sizing: border-box;"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miabosheva&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300">
 </div>
 </p>
 
