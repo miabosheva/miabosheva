@@ -25,12 +25,16 @@
     <summary><h2 style="display: inline-block">Github Stats: @miabosheva</h2></summary>
   </ul>
 </div>
-<div style="display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;">
-    <div><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=miabosheva&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></div>
-    <div><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miabosheva&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></div>
-</div>
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+        <p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=miabosheva&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+    </td>
+    <td width="50%" align="center">
+        <p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miabosheva&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+    </td>
+  </tr>
+</table>
 
 
 <!-- Line break -->
