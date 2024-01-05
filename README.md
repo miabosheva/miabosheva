@@ -28,14 +28,10 @@
 <div style="display: flex;
             flex-wrap: wrap;
             justify-content: space-between;">
-<p style="width: calc(50% - 10px);
-            margin: 5px; 
-            box-sizing: border-box;"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=miabosheva&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-<p style="width: calc(50% - 10px);
-            margin: 5px; 
-            box-sizing: border-box;"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miabosheva&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300">
+    <div><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=miabosheva&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></div>
+    <div><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miabosheva&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></div>
 </div>
-</p>
+
 
 <!-- Line break -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
