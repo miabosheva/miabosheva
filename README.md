@@ -2,9 +2,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Mia!+Welcome+to+my+GitHub+page..;New+Projects+Every+Month!;Computer+Science+Student;ML+Enthusiast;iOS+Development+Newbie;Game+Development+Enthusiast;"></a>
 </p>
 
-<!-- Line break -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies I've Worked With So Far</h2></summary>
