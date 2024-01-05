@@ -10,7 +10,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,css,py,r,swift,docker,jenkins,kubernets,figma,dotnet,angular,react,spring,arduino,azure,postgres,blender,bootstrap,html,java,cmake,js,ts,django,mongodb,mysql,nodejs,postman,selenium,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,css,py,r,swift,docker,jenkins,kubernetes,figma,dotnet,angular,react,spring,arduino,azure,postgres,blender,bootstrap,html,java,cmake,js,ts,django,mongodb,mysql,nodejs,postman,selenium,react&perline=14" />
   </a>
 </p>
 
