@@ -21,11 +21,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Github Stats: @miabosheva</h2></summary>
+  </ul>
+</div>
 
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin2731&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=miabosheva&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
-<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin2731&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=miabosheva&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
