@@ -8,13 +8,15 @@
 <!-- - :speech_balloon: &nbsp;I like to talk about **iOS**
 - :computer: &nbsp;Connect with me on **[LinkedIn]** -->
 
-<a href="#github-stats-title">
-  <img src="https://raw.githubusercontent.com/miabosheva/github-stats-transparent/output/generated/overview.svg" alt="GitHub stats" align="left" />
-</a>
+<div align="center">
+  <a href="#github-stats-title">
+    <img src="https://raw.githubusercontent.com/miabosheva/github-stats-transparent/output/generated/overview.svg" alt="GitHub stats"/>
+  </a>
+  <a href="#github-stats-title">
+    <img src="https://raw.githubusercontent.com/miabosheva/github-stats-transparent/output/generated/languages.svg" alt="Top Languages"/>
+  </a>
+</div>
 
-<a href="#github-stats-title">
-  <img src="https://raw.githubusercontent.com/miabosheva/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" align="right" />
-</a>
 
 <!-- Line break -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
