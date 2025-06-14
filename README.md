@@ -8,8 +8,12 @@
 <!-- - :speech_balloon: &nbsp;I like to talk about **iOS**
 - :computer: &nbsp;Connect with me on **[LinkedIn]** -->
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="#github-stats-title">
+  <img src="https://raw.githubusercontent.com/miabosheva/github-stats-transparent/output/generated/overview.svg" alt="GitHub stats" />
+</a>
+
+<a href="#github-stats-title">
+  <img src="https://raw.githubusercontent.com/miabosheva/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" />
 </a>
 
 <!-- Line break -->
