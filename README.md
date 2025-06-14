@@ -9,11 +9,11 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]** -->
 
 <a href="#github-stats-title">
-  <img src="https://raw.githubusercontent.com/miabosheva/github-stats-transparent/output/generated/overview.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/miabosheva/github-stats-transparent/output/generated/overview.svg" alt="GitHub stats" align="left" />
 </a>
 
 <a href="#github-stats-title">
-  <img src="https://raw.githubusercontent.com/miabosheva/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/miabosheva/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" align="right" />
 </a>
 
 <!-- Line break -->
